@@ -12,7 +12,7 @@
 
 <!-- Status Badges -->
 <a href="https://github.com/dicoangelo"><img src="https://img.shields.io/github/followers/Blackamethyst-ai?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=dicoangelo&color=00d9ff&style=for-the-badge&label=VISITORS" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Blackamethyst-ai&color=00d9ff&style=for-the-badge&label=VISITORS" alt="Visitors"/>
 <a href="https://twitter.com/dicoangelo"><img src="https://img.shields.io/badge/X/@DICOANGELO-00d9ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
 
 
