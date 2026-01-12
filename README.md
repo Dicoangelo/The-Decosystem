@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%9A%A1+SENIOR+AI+%26+BLOCKCHAIN+ARCHITECT+%E2%9A%A1;Architecting+the+Infrastructure+of+Tomorrow" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%9A%A1+AI+%26+ARCHITECT+%E2%9A%A1;Architecting+the+Infrastructure+of+Tomorrow" alt="Title" />
 
 <br/>
 
