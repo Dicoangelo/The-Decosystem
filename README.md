@@ -2,19 +2,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%9A%A1+AI+%26+ARCHITECT+%E2%9A%A1;Architecting+the+Infrastructure+of+Tomorrow" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=The+Architectural+Blueprint+for+Sovereign+AI" alt="Typing SVG" />
 
 <br/>
 
-**[@dicoangelo](https://github.com/Blackamethyst-ai)** | Building under **[@Blackamethyst-ai](https://github.com/Blackamethyst-ai)**
+[![Metaventions AI](https://img.shields.io/badge/Metaventions_AI-Architected_Intelligence-00d9ff?style=for-the-badge&labelColor=0d1117)](https://metaventionsai.com)
+[![Author](https://img.shields.io/badge/Blackamethyst--ai-Ecosystem-00d9ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Blackamethyst-ai)
+[![Status](https://img.shields.io/badge/Status-Building_in_Public-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Blackamethyst-ai)
 
 <br/>
 
-<!-- Status Badges -->
-<a href="https://github.com/dicoangelo"><img src="https://img.shields.io/github/followers/Blackamethyst-ai?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00d9ff" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=Blackamethyst-ai&color=00d9ff&style=for-the-badge&label=VISITORS" alt="Visitors"/>
-<a href="https://twitter.com/dicoangelo"><img src="https://img.shields.io/badge/X/@DICOANGELO-00d9ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
-
+*A framework for building AI systems that compound intelligence, maintain sovereignty, and amplify human potential.*
 
 </div>
 
@@ -22,183 +20,154 @@
 
 <br/>
 
+## Core Philosophy
+
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
-## 🧬 IDENTITY MATRIX
-
-```typescript
-const dicoAngelo = {
-    identity: "Sovereign Architect",
-    location: "The Decosystem",
-    mission: "Uncover • Synthesize • Build",
-
-    currentFocus: [
-        "Agentic AI Systems",
-        "Sovereign OS Development",
-        "Web3 Infrastructure",
-        "High-Fidelity Prompt Engineering"
-    ],
-
-    philosophy: "The future belongs to those
-                 who architect it.",
-
-    status: "Building in public"
-};
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                │
+│   UNCOVER          →          SYNTHESIZE          →          BUILD            │
+│   untapped value              into coherent form              sovereign        │
+│                                                               outputs          │
+│                                                                                │
+│   ══════════════════════════════════════════════════════════════════════════   │
+│                                                                                │
+│   • Your data stays yours          • Context persists across sessions          │
+│   • No vendor lock-in              • AI amplifies, never replaces              │
+│   • Modular & composable           • CLI-first, GUI-optional                   │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="50%" valign="top">
-
-## ⚡ REAL-TIME METRICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=dicoangelo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dicoangelo&theme=transparent&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" width="100%"/>
-
-</td>
-</tr>
-</table>
 </div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-## 🛠️ CORE STACK
-
-<i>Primary technologies powering The Decosystem</i>
-
-<br/><br/>
-
-### **💻 LANGUAGES & FRAMEWORKS**
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### **🧠 AI & INTELLIGENCE**
-<p>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-</p>
-
-### **⛓️ WEB3 & INFRASTRUCTURE**
-<p>
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
+## System Architecture
 
 <div align="center">
-
-## 🏛️ ACTIVE BUILDS
-
-<i>Ventures under construction in The Decosystem</i>
-
-</div>
-
-<br/>
-
-<!-- Architecture Diagram -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<br/>
-
-### ⚡ SYSTEM ARCHITECTURE
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00d9ff', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00d9ff', 'lineColor': '#00d9ff', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d1117', 'clusterBkg': '#0d1117', 'clusterBorder': '#00d9ff'}}}%%
 flowchart TB
-    subgraph ECOSYSTEM["⚡ THE DECOSYSTEM ⚡"]
+    subgraph DECOSYSTEM["⚡ THE DECOSYSTEM ⚡"]
         direction TB
-        subgraph SOVEREIGN["🏛️ SOVEREIGN LAYER"]
-            direction LR
-            META["🔮 METAVENTIONS AI\n━━━━━━━━━━━━━━━━\n◈ Bicameral Engine\n◈ Neural Vault\n◈ Dynamic Tools"]
-            STRUCT["🏛️ STRUCTURA OS\n━━━━━━━━━━━━━━━━\n◈ Asset Studio\n◈ Process Logic\n◈ Voice Core"]
+
+        subgraph INTERFACE["🎙️ INTERFACE LAYER"]
+            OS["OS-App\n━━━━━━━━━━\nSovereign Interface\nVoice-Native Control"]
         end
-        subgraph AGENTIC["🤖 AGENTIC LAYER"]
-            WEAVER["🕸️ AGENTIC WEAVER\n━━━━━━━━━━━━━━━━\n◈ Agent Orchestration\n◈ Swarm Logic\n◈ Memory Mesh"]
-        end
-        subgraph INFRA["⚙️ INFRASTRUCTURE"]
+
+        subgraph ORCHESTRATION["🔄 ORCHESTRATION LAYER"]
             direction LR
-            NEURAL[("💾 Neural\nVault")]
-            BICAM[("🧠 Bicameral\nConsensus")]
-            TOOLS[("🔧 Dynamic\nRegistry")]
+            AGENT["Agent Core\n━━━━━━━━━━\nSession Management\nCross-Env Sync"]
+            RESEARCH["ResearchGravity\n━━━━━━━━━━\nMulti-Tier Capture\nSignal Synthesis"]
+        end
+
+        subgraph APPLICATION["⚙️ APPLICATION LAYER"]
+            direction LR
+            CAREER["CareerCoach\nAntigravity\n━━━━━━━━━━\nSkill Graphs\nPositioning"]
+            TOOLS["Utility Tools\n━━━━━━━━━━\nChrome Export\nData Pipelines"]
+        end
+
+        subgraph PERSISTENCE["💾 PERSISTENCE LAYER"]
+            MEMORY[("Shared Memory\n~/.agent-core/\n━━━━━━━━━━\nSessions • Learnings\nGlobal Context")]
         end
     end
+
     HUMAN(("👤 HUMAN\nOPERATOR"))
-    AGENTS(("🤖 AI\nAGENTS"))
-    HUMAN <==>|"Natural Language"| ECOSYSTEM
-    AGENTS <==>|"MCP Protocol"| ECOSYSTEM
-    META -.->|"memory"| NEURAL
-    META -.->|"reasoning"| BICAM
-    STRUCT -.->|"tools"| TOOLS
-    WEAVER -.->|"consensus"| BICAM
-    style ECOSYSTEM fill:#0d1117,stroke:#00d9ff,stroke-width:3px,stroke-dasharray: 5 5
-    style SOVEREIGN fill:#1a1a2e,stroke:#00d9ff,stroke-width:2px
-    style AGENTIC fill:#1a1a2e,stroke:#9945ff,stroke-width:2px
-    style INFRA fill:#16213e,stroke:#00d9ff,stroke-width:2px
-    style META fill:#0d1117,stroke:#00d9ff,stroke-width:2px
-    style STRUCT fill:#0d1117,stroke:#ffd700,stroke-width:2px
-    style WEAVER fill:#0d1117,stroke:#9945ff,stroke-width:2px
+
+    HUMAN <==>|"Voice + Text"| OS
+    OS --> AGENT
+    OS --> RESEARCH
+    AGENT <--> RESEARCH
+    AGENT --> CAREER
+    AGENT --> TOOLS
+    RESEARCH --> CAREER
+    AGENT -.->|"persist"| MEMORY
+    RESEARCH -.->|"persist"| MEMORY
+    CAREER -.->|"persist"| MEMORY
+
+    style DECOSYSTEM fill:#0d1117,stroke:#00d9ff,stroke-width:3px
+    style INTERFACE fill:#1a1a2e,stroke:#00d9ff,stroke-width:2px
+    style ORCHESTRATION fill:#1a1a2e,stroke:#9945ff,stroke-width:2px
+    style APPLICATION fill:#1a1a2e,stroke:#ffd700,stroke-width:2px
+    style PERSISTENCE fill:#16213e,stroke:#00d9ff,stroke-width:2px
     style HUMAN fill:#00d9ff,stroke:#fff,stroke-width:2px,color:#0d1117
-    style AGENTS fill:#9945ff,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-<sub>🔄 <i>Live system topology — Human ↔ AI bidirectional orchestration</i></sub>
+<sub>🔄 <i>Layered architecture — Human sovereignty at every level</i></sub>
 
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+## Ecosystem Components
+
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
-<h3>🔮 METAVENTIONS AI</h3>
-<i>"Let the invention be hidden in your vision"</i>
+<h3>🎙️ OS-App</h3>
+<b>Sovereign AI Operating System</b>
 <br/><br/>
-<p>Local-first Sovereign OS featuring Bicameral Consensus Engine, Neural Vault memory, and Dynamic Tool Registry. React 19 + TypeScript + Gemini Flash 2.0.</p>
+<p>Voice-native, multi-agent interface powered by Gemini Live & ElevenLabs. Your personal command layer for the entire ecosystem.</p>
 <br/>
-<a href="https://github.com/Blackamethyst-ai/metaventions-ai-v1"><img src="https://img.shields.io/badge/📦_SOURCE-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://metaventionsai.com"><img src="https://img.shields.io/badge/🌐_DEMO-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+
+`TypeScript` `React` `Gemini` `ElevenLabs`
+
+<br/>
+<img src="https://img.shields.io/badge/Status-Private_Beta-yellow?style=for-the-badge&labelColor=0d1117"/>
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/>
-<h3>🏛️ STRUCTURA OS</h3>
-<i>"Sovereignty through architecture"</i>
+<h3>🔄 Agent Core</h3>
+<b>Unified Research Orchestration</b>
 <br/><br/>
-<p>React-based command center for the sovereign individual. Modular systems including Asset Studio, Process Logic, and Voice Core for natural language system orchestration.</p>
+<p>CLI-first research workflows with session persistence, Innovation Scout, URL logging, and cross-environment state synchronization.</p>
 <br/>
-<img src="https://img.shields.io/badge/⚙️_PRIVATE_BETA-yellow?style=for-the-badge&labelColor=0d1117"/>
+
+`Python` `CLI` `Agentic`
+
+<br/>
+<a href="https://github.com/Blackamethyst-ai/agent-core"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"/>
-<h3>🤖 AGENTIC WEAVER</h3>
-<i>"Where AI meets collaboration"</i>
+<h3>🔬 ResearchGravity</h3>
+<b>Multi-Tier Research Framework</b>
 <br/><br/>
-<p>Framework for AI-human partnership dynamics. Mapping autonomous digital agents, collaborative UX patterns, and sustainable commercial models.</p>
+<p>Frontier signal capture with tiered source hierarchy, cold start protocols, and synthesis workflows. Research that compounds.</p>
 <br/>
-<img src="https://img.shields.io/badge/🔬_RESEARCH-blue?style=for-the-badge&labelColor=0d1117"/>
+
+`Python` `Research` `Framework`
+
+<br/>
+<a href="https://github.com/Blackamethyst-ai/ResearchGravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80"/>
+<h3>💼 CareerCoachAntigravity</h3>
+<b>Sovereign Career Intelligence</b>
+<br/><br/>
+<p>AI-powered positioning, skill graph navigation, and multi-agent hiring simulation. Reclaim agency in an algorithmic world.</p>
+<br/>
+
+`TypeScript` `Next.js` `AI`
+
+<br/>
+<a href="https://github.com/Blackamethyst-ai/CareerCoachAntigravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
 </tr>
 </table>
@@ -206,21 +175,31 @@ flowchart TB
 
 <br/>
 
+### Component Registry
+
+| Layer | Component | Description | Tech | Status |
+|:-----:|:----------|:------------|:-----|:------:|
+| 🎙️ | [OS-App](https://github.com/Blackamethyst-ai/OS-App) | Sovereign voice interface | TypeScript, React | `Private` |
+| 🔄 | [Agent Core](https://github.com/Blackamethyst-ai/agent-core) | Research orchestration | Python, CLI | `v2.0` |
+| 🔬 | [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity) | Signal capture framework | Python | `v3.0` |
+| 💼 | [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `Active` |
+| 🛠️ | [chrome-history-export](https://github.com/Blackamethyst-ai/chrome-history-export) | Browser data extraction | Python | `Stable` |
+| 🌐 | [Metaventions-AI-Landing](https://github.com/Blackamethyst-ai/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <br/>
 
-<div align="center">
+## Operational Domains
 
-## 🧠 OPERATIONAL DOMAINS
+<div align="center">
 
 <i>Dual-mode cognition: 30,000ft strategy ↔ ground-level execution</i>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
@@ -231,10 +210,10 @@ flowchart TB
 
 | Protocol | Capability |
 |:--------:|:-----------|
-| `PRODUCT` | Zero-to-One lifecycle mastery |
-| `AI/LLM` | Prompt engineering, Gemini/GPT integration |
-| `WEB3` | MetaMask, Qubic, tokenomics design |
-| `SYSTEMS` | Architecture, data pipelines, infra |
+| `AGENTIC` | Multi-agent orchestration, tool use |
+| `AI/LLM` | Prompt engineering, Gemini/Claude/GPT |
+| `INFRA` | Sovereign systems, data pipelines |
+| `RESEARCH` | Signal capture, synthesis workflows |
 
 </td>
 <td width="50%" align="center">
@@ -245,10 +224,10 @@ flowchart TB
 
 | Protocol | Capability |
 |:--------:|:-----------|
-| `GROWTH` | Strategic partnerships, GTM |
-| `LEAD` | Team orchestration, stakeholder ops |
-| `INVEST` | Tech evaluation, portfolio strategy |
-| `FUTURE` | AGI forecasting, paradigm mapping |
+| `VISION` | Paradigm mapping, future architecture |
+| `PRODUCT` | Zero-to-one lifecycle, GTM |
+| `GROWTH` | Strategic positioning, partnerships |
+| `COMPOUND` | Knowledge accumulation, context persistence |
 
 </td>
 </tr>
@@ -261,19 +240,114 @@ flowchart TB
 
 <br/>
 
-<div align="center">
+## Quick Start
 
-## 📊 GITHUB ANALYTICS
+```bash
+# 1. Clone the orchestration layer
+git clone https://github.com/Blackamethyst-ai/agent-core.git
+cd agent-core && chmod +x setup.sh && ./setup.sh
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dicoangelo&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="95%"/>
+# 2. Initialize a research session
+agent-init "your research topic"
+
+# 3. Log URLs as you research
+agent-log https://arxiv.org/abs/... --tier 1 --relevance 5 --used
+
+# 4. Check session state anytime
+agent-sync status
+
+# 5. Archive and extract learnings
+agent-archive
+```
+
+### Explore Further
+
+```bash
+# Research framework
+git clone https://github.com/Blackamethyst-ai/ResearchGravity.git
+
+# Career intelligence
+git clone https://github.com/Blackamethyst-ai/CareerCoachAntigravity.git
+
+# Browser data extraction
+git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
+```
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dicoangelo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<br/>
+
+## Vision Protocol
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "The future belongs to those who can see patterns in chaos,                ║
+║    extract signal from noise, and architect systems that                     ║
+║    amplify human potential."                                                 ║
+║                                                                              ║
+║   ════════════════════════════════════════════════════════════════════════   ║
+║                                                                              ║
+║   THE DECOSYSTEM IS BUILDING TOWARD:                                         ║
+║                                                                              ║
+║   ▸ Every individual has sovereign AI infrastructure                         ║
+║   ▸ Context compounds over time — your AI remembers                          ║
+║   ▸ Tools work for you, not Big Tech                                         ║
+║   ▸ Intelligence is architected, not just prompted                           ║
+║                                                                              ║
+║   ════════════════════════════════════════════════════════════════════════   ║
+║                                                                              ║
+║   "Let the invention be hidden in your vision."                              ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+## Contribution & Collaboration
+
+<div align="center">
+
+<i>This ecosystem is built in public. Join the architecture.</i>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dicoangelo&theme=2077" width="95%"/>
+| Channel | Purpose |
+|:--------|:--------|
+| 🐛 **Issues** | Report bugs, request features |
+| 🔀 **Pull Requests** | Contribute to individual repos |
+| 🔬 **Research** | Share findings via ResearchGravity |
+| 💬 **Discussions** | Ideas, questions, vision |
+
+<br/>
+
+<a href="https://github.com/Blackamethyst-ai">
+<img src="https://img.shields.io/badge/Explore_the_Ecosystem-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+<a href="https://metaventionsai.com">
+<img src="https://img.shields.io/badge/Metaventions_AI-00d9ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+<a href="https://twitter.com/dicoangelo">
+<img src="https://img.shields.io/badge/@dicoangelo-00d9ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
 
 </div>
 
@@ -283,122 +357,50 @@ flowchart TB
 
 <br/>
 
-<div align="center">
-
-## 🔭 VISION PROTOCOL
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The future belongs to those who can see patterns in chaos,    ║
-║    extract signal from noise, and architect systems that         ║
-║    amplify human potential.                                      ║
-║                                                                  ║
-║    My mission is singular:                                       ║
-║                                                                  ║
-║    ▸ UNCOVER untapped value                                      ║
-║    ▸ SYNTHESIZE it into coherent form                            ║
-║    ▸ BUILD innovative creations that restore sovereignty         ║
-║                                                                  ║
-║    We are constructing the infrastructure for a more             ║
-║    intelligent, interconnected, and sovereign world."            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
+## Agent Context
 
 <div align="center">
 
-## 🤝 INITIATE CONTACT
-
-<i>Seeking co-architects who think in decades, not quarters</i>
-
-<br/><br/>
-
-<a href="https://metaventionsai.com">
-<img src="https://img.shields.io/badge/METAVENTIONS-00d9ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" height="35"/>
-</a>
-<a href="https://x.com/dicoangelo">
-<img src="https://img.shields.io/badge/@DICOANGELO-00d9ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/dico-angelo/">
-<img src="https://img.shields.io/badge/DICO_ANGELO-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="35"/>
-</a>
-
-<br/><br/>
-
-### 📡 COMMUNICATION CHANNELS
-
-| Channel | Contact |
-|:--------|:--------|
-| 📧 Email | [dico.angelo97@gmail.com](mailto:dico.angelo97@gmail.com) |
-| 🏢 Business | [Dicoangelo@metaventionsai.com](mailto:Dicoangelo@metaventionsai.com) |
-| 💼 Enterprise | [dicoangelo@blackamethystcapitalkeyhold.onmicrosoft.com](mailto:dicoangelo@blackamethystcapitalkeyhold.onmicrosoft.com) |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## 🤖 AI COLLABORATION LOG
-
-<i>This repository is agent-ready. See [.agent/README.md](.agent/README.md) for LLM context.</i>
+<i>This repository is agent-ready. LLMs can navigate and contribute effectively.</i>
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>📋 Recent Activity</b> (click to expand)</summary>
+<summary><b>🤖 AI Collaboration Log</b> (click to expand)</summary>
 
 <br/>
 
-| Date | Action | Result |
-|------|--------|--------|
-| 2026-01-09 | Research agentic documentation patterns | 3 key innovations identified |
-| 2026-01-09 | Repository modernization | Badges streamlined, proof-of-work links added |
-| 2026-01-09 | MCP architecture setup | `.agent/` directory created |
+| Date | Action | Outcome |
+|------|--------|---------|
+| 2026-01-13 | Ecosystem architecture refresh | Unified component registry |
+| 2026-01-13 | Profile/Decosystem separation | Clear purpose for each repo |
+| 2026-01-09 | Agent context documentation | `.agent/` directories added |
+| 2026-01-09 | Repository modernization | Consistent branding across ecosystem |
 
-**Full history**: [TRAJECTORY.md](TRAJECTORY.md)
+<br/>
+
+**Agent Entry Point:** See `.agent/README.md` in each repository for LLM context.
 
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1a1a2e,100:16213e&section=footer&reversal=true"/>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=12&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=%22The+best+way+to+predict+the+future+is+to+architect+it.%22" alt="Quote"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Blackamethyst-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&hide=contribs&hide_rank=true" width="400"/>
+
+<br/><br/>
+
+**Part of the [Antigravity Ecosystem](https://github.com/Blackamethyst-ai)** • Built by [@dicoangelo](https://twitter.com/dicoangelo)
 
 <br/>
 
-**© 2026 THE DECOSYSTEM** • *Built with vision, powered by conviction*
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-00d9ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Always_Building-00d9ff?style=flat-square&labelColor=0d1117"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1a1a2e,100:16213e&section=footer" width="100%"/>
