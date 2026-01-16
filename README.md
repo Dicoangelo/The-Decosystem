@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=THE%20DECOSYSTEM&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Uncovering%20Untapped%20Value%20%E2%80%A2%20Synthesizing%20Data%20Streams%20%E2%80%A2%20Building%20Sovereign%20Outputs&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="THE DECOSYSTEM"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=THE%20D-ECOSYSTEM&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Uncovering%20Untapped%20Value%20%E2%80%A2%20Synthesizing%20Data%20Streams%20%E2%80%A2%20Building%20Sovereign%20Outputs&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="THE D-ECOSYSTEM"/>
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#00d9ff', 'primaryTextColor': '#fff', 'primaryBorderColor': '#00d9ff', 'lineColor': '#00d9ff', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d1117', 'clusterBkg': '#0d1117', 'clusterBorder': '#00d9ff'}}}%%
 flowchart TB
-    subgraph DECOSYSTEM["⚡ THE DECOSYSTEM ⚡"]
+    subgraph DECOSYSTEM["⚡ THE D-ECOSYSTEM ⚡"]
         direction TB
 
         subgraph INTERFACE["🎙️ INTERFACE LAYER"]
@@ -296,7 +296,7 @@ git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
 ║                                                                              ║
 ║   ════════════════════════════════════════════════════════════════════════   ║
 ║                                                                              ║
-║   THE DECOSYSTEM IS BUILDING TOWARD:                                         ║
+║   THE D-ECOSYSTEM IS BUILDING TOWARD:                                         ║
 ║                                                                              ║
 ║   ▸ Every individual has sovereign AI infrastructure                         ║
 ║   ▸ Context compounds over time — your AI remembers                          ║
