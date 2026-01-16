@@ -179,11 +179,11 @@ flowchart TB
 
 | Layer | Component | Description | Tech | Status |
 |:-----:|:----------|:------------|:-----|:------:|
-| 🎙️ | [OS-App](https://github.com/Blackamethyst-ai/OS-App) | Sovereign voice interface | TypeScript, React | `Private` |
-| 🔄 | [Agent Core](https://github.com/Blackamethyst-ai/agent-core) | Research orchestration | Python, CLI | `v2.0` |
-| 🔬 | [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity) | Signal capture framework | Python | `v3.0` |
-| 💼 | [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `Active` |
-| 🛠️ | [chrome-history-export](https://github.com/Blackamethyst-ai/chrome-history-export) | Browser data extraction | Python | `Stable` |
+| 🎙️ | [OS-App](https://github.com/Blackamethyst-ai/OS-App) | Sovereign voice interface | TypeScript, React | `v1.2` |
+| 🔄 | [Agent Core](https://github.com/Blackamethyst-ai/agent-core) | Research orchestration | Python, CLI | `v2.1` |
+| 🔬 | [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity) | Signal capture framework | Python | `v3.3` |
+| 💼 | [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
+| 🛠️ | [chrome-history-export](https://github.com/Blackamethyst-ai/chrome-history-export) | Browser data extraction | Python | `v2.0` |
 | 🌐 | [Metaventions-AI-Landing](https://github.com/Blackamethyst-ai/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
 
 <br/>
@@ -374,6 +374,8 @@ git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
 
 | Date | Action | Outcome |
 |------|--------|---------|
+| 2026-01-15 | Version alignment sweep | All repos versioned (v1.2–v3.3) |
+| 2026-01-15 | Documentation refresh | What's New sections across ecosystem |
 | 2026-01-13 | Ecosystem architecture refresh | Unified component registry |
 | 2026-01-13 | Profile/Decosystem separation | Clear purpose for each repo |
 | 2026-01-09 | Agent context documentation | `.agent/` directories added |
