@@ -7,8 +7,8 @@
 <br/>
 
 [![Metaventions AI](https://img.shields.io/badge/Metaventions_AI-Architected_Intelligence-00d9ff?style=for-the-badge&labelColor=0d1117)](https://metaventionsai.com)
-[![Author](https://img.shields.io/badge/Blackamethyst--ai-Ecosystem-00d9ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Blackamethyst-ai)
-[![Status](https://img.shields.io/badge/Status-Building_in_Public-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Blackamethyst-ai)
+[![Author](https://img.shields.io/badge/Dicoangelo-Ecosystem-00d9ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dicoangelo)
+[![Status](https://img.shields.io/badge/Status-Building_in_Public-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Dicoangelo)
 
 <br/>
 
@@ -139,7 +139,7 @@ flowchart TB
 `Python` `CLI` `Agentic`
 
 <br/>
-<a href="https://github.com/Blackamethyst-ai/agent-core"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://github.com/Dicoangelo/agent-core"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ flowchart TB
 `Python` `Research` `Framework`
 
 <br/>
-<a href="https://github.com/Blackamethyst-ai/ResearchGravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://github.com/Dicoangelo/ResearchGravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
 <td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80"/>
@@ -167,7 +167,7 @@ flowchart TB
 `TypeScript` `Next.js` `AI`
 
 <br/>
-<a href="https://github.com/Blackamethyst-ai/CareerCoachAntigravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://github.com/Dicoangelo/CareerCoachAntigravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
 </tr>
 </table>
@@ -179,12 +179,12 @@ flowchart TB
 
 | Layer | Component | Description | Tech | Status |
 |:-----:|:----------|:------------|:-----|:------:|
-| 🎙️ | [OS-App](https://github.com/Blackamethyst-ai/OS-App) | Sovereign voice interface | TypeScript, React | `v1.2` |
-| 🔄 | [Agent Core](https://github.com/Blackamethyst-ai/agent-core) | Research orchestration | Python, CLI | `v2.1` |
-| 🔬 | [ResearchGravity](https://github.com/Blackamethyst-ai/ResearchGravity) | Signal capture framework | Python | `v3.3` |
-| 💼 | [CareerCoachAntigravity](https://github.com/Blackamethyst-ai/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
-| 🛠️ | [chrome-history-export](https://github.com/Blackamethyst-ai/chrome-history-export) | Browser data extraction | Python | `v2.0` |
-| 🌐 | [Metaventions-AI-Landing](https://github.com/Blackamethyst-ai/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
+| 🎙️ | [OS-App](https://github.com/Dicoangelo/OS-App) | Sovereign voice interface | TypeScript, React | `v1.2` |
+| 🔄 | [Agent Core](https://github.com/Dicoangelo/agent-core) | Research orchestration | Python, CLI | `v2.1` |
+| 🔬 | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | Signal capture framework | Python | `v3.3` |
+| 💼 | [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
+| 🛠️ | [chrome-history-export](https://github.com/Dicoangelo/chrome-history-export) | Browser data extraction | Python | `v2.0` |
+| 🌐 | [Metaventions-AI-Landing](https://github.com/Dicoangelo/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
 
 <br/>
 
@@ -244,7 +244,7 @@ flowchart TB
 
 ```bash
 # 1. Clone the orchestration layer
-git clone https://github.com/Blackamethyst-ai/agent-core.git
+git clone https://github.com/Dicoangelo/agent-core.git
 cd agent-core && chmod +x setup.sh && ./setup.sh
 
 # 2. Initialize a research session
@@ -264,13 +264,13 @@ agent-archive
 
 ```bash
 # Research framework
-git clone https://github.com/Blackamethyst-ai/ResearchGravity.git
+git clone https://github.com/Dicoangelo/ResearchGravity.git
 
 # Career intelligence
-git clone https://github.com/Blackamethyst-ai/CareerCoachAntigravity.git
+git clone https://github.com/Dicoangelo/CareerCoachAntigravity.git
 
 # Browser data extraction
-git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
+git clone https://github.com/Dicoangelo/chrome-history-export.git
 ```
 
 <br/>
@@ -339,7 +339,7 @@ git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
 
 <br/>
 
-<a href="https://github.com/Blackamethyst-ai">
+<a href="https://github.com/Dicoangelo">
 <img src="https://img.shields.io/badge/Explore_the_Ecosystem-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="35"/>
 </a>
 <a href="https://metaventionsai.com">
@@ -393,11 +393,11 @@ git clone https://github.com/Blackamethyst-ai/chrome-history-export.git
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Blackamethyst-ai&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&hide=contribs&hide_rank=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dicoangelo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&hide=contribs&hide_rank=true" width="400"/>
 
 <br/><br/>
 
-**Part of the [Antigravity Ecosystem](https://github.com/Blackamethyst-ai)** • Built by [@dicoangelo](https://twitter.com/dicoangelo)
+**Part of the [Antigravity Ecosystem](https://github.com/Dicoangelo)** • Built by [@dicoangelo](https://twitter.com/dicoangelo)
 
 <br/>
 

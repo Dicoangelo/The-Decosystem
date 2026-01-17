@@ -1,4 +1,4 @@
-GitHub DeepScan: @Blackamethyst-ai
+GitHub DeepScan: @Dicoangelo
 Date: December 29, 2025 Audience: Internal Engineering Leadership Status: CRITICAL ARCHITECTURAL REVIEW
 
 # Metaventions AI // Sovereign Operating System
@@ -21,9 +21,9 @@ Date: December 29, 2025 Audience: Internal Engineering Leadership Status: CRITIC
 
 | Sector | Status | Description |
 | :--- | :--- | :--- |
-| **[Metaventions-AI-V1](https://github.com/Blackamethyst-ai/metaventions-ai-v1)** | **FLAGSHIP** | The source code for the Sovereign OS. Local-first, self-healing, agentic. |
-| **[Neural Vault](https://github.com/Blackamethyst-ai/metaventions-ai-v1/tree/main/src/services)** | **MODULE** | The `IndexedDB` persistence layer with Vector Search & Dynamic Tooling. |
-| **[Bicameral Engine](https://github.com/Blackamethyst-ai/metaventions-ai-v1/blob/main/src/services/bicameralService.ts)** | **LOGIC** | The swarm consensus algorithm that powers decision making. |
+| **[Metaventions-AI-V1](https://github.com/Dicoangelo/metaventions-ai-v1)** | **FLAGSHIP** | The source code for the Sovereign OS. Local-first, self-healing, agentic. |
+| **[Neural Vault](https://github.com/Dicoangelo/metaventions-ai-v1/tree/main/src/services)** | **MODULE** | The `IndexedDB` persistence layer with Vector Search & Dynamic Tooling. |
+| **[Bicameral Engine](https://github.com/Dicoangelo/metaventions-ai-v1/blob/main/src/services/bicameralService.ts)** | **LOGIC** | The swarm consensus algorithm that powers decision making. |
 
 ---
 
@@ -32,7 +32,7 @@ Date: December 29, 2025 Audience: Internal Engineering Leadership Status: CRITIC
 
 
 1. Executive Summary
-Account Topology: The account Blackamethyst-ai appears to be a single-purpose stealth org centered around one monolithic flagship repository: metaventions-ai-v1. No forks or utility libraries are visible; all logic is centralized in this "Sovereign OS" monorepo.
+Account Topology: The account Dicoangelo appears to be a single-purpose stealth org centered around one monolithic flagship repository: metaventions-ai-v1. No forks or utility libraries are visible; all logic is centralized in this "Sovereign OS" monorepo.
 
 Architectural Thesis: A Local-First "Thick Client" (Sovereign OS) built on React 19 + Vite. It rejects the traditional Client/Server model in favor of a browser-based "God Mode" where the frontend holds the DB (IndexedDB) and the Logic (Gemini Flash).
 

@@ -4,7 +4,7 @@
 
 ## Architecture Decisions
 
-- **Primary Identity**: `dicoangelo` (personal) building under `Blackamethyst-ai` (org)
+- **Primary Identity**: `dicoangelo` (personal) building under `Dicoangelo` (org)
 - **Brand Color**: Cyan `#00d9ff` on dark background `#0d1117`
 - **Philosophy**: "Uncover, Synthesize, Build" - Sovereign infrastructure focus
 

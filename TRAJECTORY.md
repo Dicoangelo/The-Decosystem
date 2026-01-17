@@ -12,7 +12,7 @@
 - Copyright was outdated (2024 → 2026)
 - Badge overload reduced credibility (30+ badges)
 - Missing proof-of-work links to actual repositories
-- Identity confusion between `dicoangelo` and `Blackamethyst-ai`
+- Identity confusion between `dicoangelo` and `Dicoangelo`
 - Risky external API dependency (Twitter follower count)
 
 ### Actions Taken

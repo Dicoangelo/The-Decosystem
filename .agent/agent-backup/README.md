@@ -9,7 +9,7 @@
   "name": "The-Decosystem",
   "type": "profile-readme",
   "owner": "dicoangelo",
-  "organization": "Blackamethyst-ai",
+  "organization": "Dicoangelo",
   "purpose": "Personal branding and project showcase for AI/Blockchain architect"
 }
 ```
@@ -18,7 +18,7 @@
 
 | Repository | Purpose | Status |
 |------------|---------|--------|
-| [metaventions-ai-v1](https://github.com/Blackamethyst-ai/metaventions-ai-v1) | Sovereign OS with Bicameral Engine | Active |
+| [metaventions-ai-v1](https://github.com/Dicoangelo/metaventions-ai-v1) | Sovereign OS with Bicameral Engine | Active |
 | Structura OS | React command center | Private Beta |
 | Agentic Weaver | AI-human collaboration framework | Research |
 
