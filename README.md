@@ -179,9 +179,9 @@ flowchart TB
 
 | Layer | Component | Description | Tech | Status |
 |:-----:|:----------|:------------|:-----|:------:|
-| 🎙️ | [OS-App](https://github.com/Dicoangelo/OS-App) | Sovereign voice interface | TypeScript, React | `v1.2` |
-| 🔄 | [Agent Core](https://github.com/Dicoangelo/agent-core) | Research orchestration | Python, CLI | `v2.1` |
-| 🔬 | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | Signal capture framework | Python | `v3.3` |
+| 🎙️ | [OS-App](https://github.com/Dicoangelo/OS-App) | Sovereign voice interface + ACE/RLM | TypeScript, React | `v1.3` |
+| 🔄 | [Agent Core](https://github.com/Dicoangelo/agent-core) | Research orchestration | Python, CLI | `v2.2` |
+| 🔬 | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | Signal capture + Precision Bridge | Python | `v3.5` |
 | 💼 | [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
 | 🛠️ | [chrome-history-export](https://github.com/Dicoangelo/chrome-history-export) | Browser data extraction | Python | `v2.0` |
 | 🌐 | [Metaventions-AI-Landing](https://github.com/Dicoangelo/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
@@ -374,6 +374,9 @@ git clone https://github.com/Dicoangelo/chrome-history-export.git
 
 | Date | Action | Outcome |
 |------|--------|---------|
+| 2026-01-17 | Precision Bridge research | Tesla patent → RLM synthesis → production implementation |
+| 2026-01-17 | OS-App v1.3 | ACE, RLM, DQ Scoring, HRPO implementations |
+| 2026-01-17 | ResearchGravity v3.5 | 54 sessions, 306 papers, 3,200+ URLs accumulated |
 | 2026-01-15 | Version alignment sweep | All repos versioned (v1.2–v3.3) |
 | 2026-01-15 | Documentation refresh | What's New sections across ecosystem |
 | 2026-01-13 | Ecosystem architecture refresh | Unified component registry |
