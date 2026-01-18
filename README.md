@@ -9,6 +9,7 @@
 [![Metaventions AI](https://img.shields.io/badge/Metaventions_AI-Architected_Intelligence-00d9ff?style=for-the-badge&labelColor=0d1117)](https://metaventionsai.com)
 [![Author](https://img.shields.io/badge/Dicoangelo-Ecosystem-00d9ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dicoangelo)
 [![Status](https://img.shields.io/badge/Status-Building_in_Public-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Dicoangelo)
+[![Security](https://img.shields.io/badge/Security-Audited-00d9ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Dicoangelo)
 
 <br/>
 
