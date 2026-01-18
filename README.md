@@ -67,6 +67,7 @@ flowchart TB
             direction LR
             AGENT["Agent Core\n━━━━━━━━━━\nSession Management\nCross-Env Sync"]
             RESEARCH["ResearchGravity\n━━━━━━━━━━\nMulti-Tier Capture\nSignal Synthesis"]
+            VENGINE["Meta-Vengine\n━━━━━━━━━━\nCo-Evolution\nSelf-Improvement"]
         end
 
         subgraph APPLICATION["⚙️ APPLICATION LAYER"]
@@ -86,11 +87,15 @@ flowchart TB
     OS --> AGENT
     OS --> RESEARCH
     AGENT <--> RESEARCH
+    AGENT <--> VENGINE
+    RESEARCH --> VENGINE
+    VENGINE -.->|"evolve"| OS
     AGENT --> CAREER
     AGENT --> TOOLS
     RESEARCH --> CAREER
     AGENT -.->|"persist"| MEMORY
     RESEARCH -.->|"persist"| MEMORY
+    VENGINE -.->|"persist"| MEMORY
     CAREER -.->|"persist"| MEMORY
 
     style DECOSYSTEM fill:#0d1117,stroke:#00d9ff,stroke-width:3px
@@ -171,6 +176,34 @@ flowchart TB
 <a href="https://github.com/Dicoangelo/CareerCoachAntigravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169c7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"/>
+<h3>⚙️ Meta-Vengine</h3>
+<b>The Invention Engine</b>
+<br/><br/>
+<p>Bidirectional co-evolution system. Claude analyzes its own patterns and modifies its own instructions. The flywheel that improves itself.</p>
+<br/>
+
+`Python` `JavaScript` `Co-Evolution`
+
+<br/>
+<a href="https://github.com/Dicoangelo/meta-vengine"><img src="https://img.shields.io/badge/Status-Live-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+</td>
+<td width="50%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9f7e-fb00-4f85-9c16-7d9b5e5b9e85.png" width="80"/>
+<h3>🛠️ Utility Tools</h3>
+<b>Data Extraction & Pipelines</b>
+<br/><br/>
+<p>Chrome history export, data pipelines, and utility scripts for the ecosystem. Zero dependencies. Privacy-first.</p>
+<br/>
+
+`Python` `CLI` `Privacy`
+
+<br/>
+<a href="https://github.com/Dicoangelo/chrome-history-export"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
+</td>
+</tr>
 </table>
 </div>
 
@@ -184,6 +217,7 @@ flowchart TB
 | 🔄 | [Agent Core](https://github.com/Dicoangelo/agent-core) | Research orchestration | Python, CLI | `v2.2` |
 | 🔬 | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | Signal capture + Precision Bridge | Python | `v3.5` |
 | 💼 | [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
+| ⚙️ | [Meta-Vengine](https://github.com/Dicoangelo/meta-vengine) | **Co-Evolution Engine** | Python, JS | `v1.0` |
 | 🛠️ | [chrome-history-export](https://github.com/Dicoangelo/chrome-history-export) | Browser data extraction | Python | `v2.0` |
 | 🌐 | [Metaventions-AI-Landing](https://github.com/Dicoangelo/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
 
