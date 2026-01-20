@@ -151,13 +151,13 @@ flowchart TB
 <tr>
 <td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"/>
-<h3>🔬 ResearchGravity</h3>
-<b>Multi-Tier Research Framework</b>
+<h3>🏛️ ResearchGravity</h3>
+<b>Chief of Staff — AI Second Brain</b>
 <br/><br/>
-<p>Frontier signal capture with tiered source hierarchy, cold start protocols, and synthesis workflows. Research that compounds.</p>
+<p>114 sessions • 11K nodes • 27M tokens. Storage Triad (SQLite + Qdrant), Writer-Critic validation, Graph Intelligence. 19 API endpoints.</p>
 <br/>
 
-`Python` `Research` `Framework`
+`Python` `SQLite` `Qdrant` `FastAPI`
 
 <br/>
 <a href="https://github.com/Dicoangelo/ResearchGravity"><img src="https://img.shields.io/badge/Status-Active-00d9ff?style=for-the-badge&labelColor=0d1117"/></a>
@@ -215,11 +215,64 @@ flowchart TB
 |:-----:|:----------|:------------|:-----|:------:|
 | 🎙️ | [OS-App](https://github.com/Dicoangelo/OS-App) | Sovereign voice interface + ACE/RLM | TypeScript, React | `v1.3` |
 | 🔄 | [Agent Core](https://github.com/Dicoangelo/agent-core) | Research orchestration | Python, CLI | `v2.2` |
-| 🔬 | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | Signal capture + Precision Bridge | Python | `v3.5` |
+| 🏛️ | [ResearchGravity](https://github.com/Dicoangelo/ResearchGravity) | **Chief of Staff** — 114 sessions, Graph Intelligence | Python, FastAPI | `v5.0` |
 | 💼 | [CareerCoachAntigravity](https://github.com/Dicoangelo/CareerCoachAntigravity) | Career intelligence | TypeScript, Next.js | `v2.0` |
 | ⚙️ | [Meta-Vengine](https://github.com/Dicoangelo/meta-vengine) | **Co-Evolution Engine** | Python, JS | `v1.0` |
 | 🛠️ | [chrome-history-export](https://github.com/Dicoangelo/chrome-history-export) | Browser data extraction | Python | `v2.0` |
 | 🌐 | [Metaventions-AI-Landing](https://github.com/Dicoangelo/Metaventions-AI-Landing) | Public landing page | TypeScript | `Active` |
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+
+<br/>
+
+## 🏛️ Chief of Staff Infrastructure
+
+<div align="center">
+
+*The AI Second Brain powering the entire ecosystem*
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                         CHIEF OF STAFF ARCHITECTURE                               │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                   │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │
+│  │   CAPTURE   │───▶│   STORAGE   │───▶│INTELLIGENCE │───▶│  RETRIEVAL  │       │
+│  │             │    │    TRIAD    │    │             │    │     API     │       │
+│  │ Sessions    │    │ SQLite      │    │ Writer-     │    │ 19 REST     │       │
+│  │ URLs        │    │ Qdrant      │    │ Critic      │    │ endpoints   │       │
+│  │ Findings    │    │ Graph       │    │ Oracle      │    │ Graph viz   │       │
+│  └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘       │
+│                                                                                   │
+│  ┌────────────────────────────────────────────────────────────────────────────┐  │
+│  │                         GRAPH INTELLIGENCE                                  │  │
+│  │                                                                             │  │
+│  │   Sessions ──contains──▶ Findings ──cites──▶ Papers ──informs──▶ Features  │  │
+│  │                                                                             │  │
+│  │        11,579 Nodes    •    13,744 Edges    •    Concept Clusters          │  │
+│  └────────────────────────────────────────────────────────────────────────────┘  │
+│                                                                                   │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+| Metric | Count | Description |
+|:------:|:-----:|:------------|
+| **Sessions** | 114+ | Research sessions with full transcripts |
+| **Findings** | 2,530 | Extracted insights with evidence |
+| **URLs** | 8,935 | Tiered sources with relevance scoring |
+| **Tokens** | 27M+ | Processed and indexed |
+| **Graph Nodes** | 11,579 | Sessions, findings, URLs, papers |
+| **Graph Edges** | 13,744 | Contains, cites, derives_from, enables |
+| **API Endpoints** | 19 | REST API on port 3847 |
+| **Critics** | 3 | Archive, Evidence, Pack validation |
+
+</div>
 
 <br/>
 
